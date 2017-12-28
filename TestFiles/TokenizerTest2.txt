@@ -1,0 +1,9 @@
+string abc = "This is a string with \"quotes\" returned as single token";
+char d = 'a';
+string def = 'this is a single quoted string with \'escaped quotes\''; 
+/* C styled comment returned as a single token*/
+// CPP styled comment which is returned as a single token
+/* Multi lined C comment
+       is also returned
+       as a single token
+    */

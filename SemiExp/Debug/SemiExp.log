@@ -1,0 +1,11 @@
+﻿Build started 4/29/2016 3:56:10 PM.
+     1>Project "S:\Study\Spring-16\OOD\Project-1\MySol_NonStatic_Project1\Project1\SemiExp\SemiExp.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"S:\Study\Spring-16\OOD\Project-1\MySol_NonStatic_Project1\Project1\Debug\SemiExp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"S:\Study\Spring-16\OOD\Project-1\MySol_NonStatic_Project1\Project1\Debug\SemiExp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"S:\Study\Spring-16\OOD\Project-1\MySol_NonStatic_Project1\Project1\Debug\SemiExp.lib" /MACHINE:X86 Debug\Tokenizer.obj
+         Debug\SemiExp.obj
+         SemiExp.vcxproj -> S:\Study\Spring-16\OOD\Project-1\MySol_NonStatic_Project1\Project1\Debug\SemiExp.exe
+     1>Done Building Project "S:\Study\Spring-16\OOD\Project-1\MySol_NonStatic_Project1\Project1\SemiExp\SemiExp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.87

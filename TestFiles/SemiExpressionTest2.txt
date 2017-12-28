@@ -1,0 +1,3 @@
+
+
+string abc = "This IS A STring OBJECT";

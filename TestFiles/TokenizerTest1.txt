@@ -1,0 +1,5 @@
+These are alpha num 456 tokens
+We can also have punctuators like $ % @
+If together like $$$$%@ they come as single token
+Single Special chracters <=>[](){}:=+-* come as different tokens
+Double Special characters <<>>::++--==+=-=*=/= come as different tokens

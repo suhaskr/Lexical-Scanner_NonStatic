@@ -1,0 +1,26 @@
+#include <iostream>
+string abc = "fjyftnrftdrt";
+for (int i=1;i<5;i++) { 
+do something;
+more things;
+}
+int x = 5;
+for (int i =1; i<5;i++)
+one thing;
+int x = 6;
+for (auto a :tokens) {
+do something;
+more things;
+}
+int x = 7;
+for (auto a :tokens)
+one thing;
+int x=8;
+for (int i=(a+(b+c));i<5;i++) {
+do something;
+more things;
+}
+int x = 9;
+for (int i=(a+(b+c));i<5;i++) 
+one thing;
+int x = 10;
